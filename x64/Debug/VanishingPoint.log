@@ -1,0 +1,10 @@
+﻿  testopencv.cpp
+c:\users\sirapop nuannimnoi\documents\visual studio 2015\projects\vanishingpoint\vanishingpoint\testopencv.cpp(51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sirapop nuannimnoi\documents\visual studio 2015\projects\vanishingpoint\vanishingpoint\testopencv.cpp(52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sirapop nuannimnoi\documents\visual studio 2015\projects\vanishingpoint\vanishingpoint\testopencv.cpp(53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sirapop nuannimnoi\documents\visual studio 2015\projects\vanishingpoint\vanishingpoint\testopencv.cpp(54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sirapop nuannimnoi\documents\visual studio 2015\projects\vanishingpoint\vanishingpoint\testopencv.cpp(64): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\sirapop nuannimnoi\documents\visual studio 2015\projects\vanishingpoint\vanishingpoint\testopencv.cpp(89): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\sirapop nuannimnoi\documents\visual studio 2015\projects\vanishingpoint\vanishingpoint\testopencv.cpp(90): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\sirapop nuannimnoi\documents\visual studio 2015\projects\vanishingpoint\vanishingpoint\testopencv.cpp(231): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  VanishingPoint.vcxproj -> C:\Users\Sirapop Nuannimnoi\Documents\Visual Studio 2015\Projects\VanishingPoint\x64\Debug\VanishingPoint.exe
